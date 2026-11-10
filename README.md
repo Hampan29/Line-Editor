@@ -5,14 +5,6 @@ studio competition. It holds a small text document in memory as a dynamic
 array of strings and lets you insert, delete, view, search, and save/load
 lines through short typed commands — no GUI.
 
-## Team
-
-> Fill in before submitting:
-
-- Member 1 — HAMPAN GOWDA K L (Wrote the code for insert, delete, and to display the document)
-- Member 2 — GAGAN S PATIL (Added further functions: Save, Search, Find and Replaceing the document)
-- Member 3 — G JASHWANTH KUMAR (Rectified the bugs and finalized the code)
-
 ## Features implemented
 
 **Core (required 2–3):**
